@@ -1,0 +1,3 @@
+/mnt/c/Users/adria/OneDrive/Área de Trabalho/googletestes/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/adria/OneDrive/Área de Trabalho/googletestes/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/adria/OneDrive/Área de Trabalho/googletestes/build/CMakeFiles/executeTests.dir

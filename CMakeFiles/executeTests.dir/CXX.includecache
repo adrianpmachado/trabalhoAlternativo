@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/adria/OneDrive/Área de Trabalho/googletestes/sqrt.cpp
+math.h
+-
+
+/mnt/c/Users/adria/OneDrive/Área de Trabalho/googletestes/sqrt_test.cpp
+sqrt.cpp
+/mnt/c/Users/adria/OneDrive/Área de Trabalho/googletestes/sqrt.cpp
+gtest/gtest.h
+-
+
